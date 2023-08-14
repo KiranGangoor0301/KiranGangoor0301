@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kiran Gangoor</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirangangoor0301&label=Profile%20views&color=0e75b6&style=flat" alt="kirangangoor0301" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirangangoor0301" alt="kirangangoor0301" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning Projects**
 
@@ -20,6 +17,10 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HFG59oAefOwQF7Shf9qSYxSCb50itAYx/view?usp=drive_link](https://drive.google.com/file/d/1HFG59oAefOwQF7Shf9qSYxSCb50itAYx/view?usp=drive_link)
 
 - ⚡ Fun fact **"Pteronophobia" is the fear of being tickled by feathers.**
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirangangoor0301&label=Profile%20views&color=0e75b6&style=flat" alt="kirangangoor0301" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kirangangoor0301" alt="kirangangoor0301" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
