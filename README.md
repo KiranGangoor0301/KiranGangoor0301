@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [kiran-personnelportfolio.netlify.app](kiran-personnelportfolio.netlify.app)
 
-- 💬 Ask me about **Front-End Development Python C Language React JS Django**
+- 💬 Ask me about **Front-End Development,Python,Java Script,React JS,Django**
 
 - 📫 How to reach me **kirankumargangoor27@gmail.com**
 
