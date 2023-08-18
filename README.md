@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **AI and ML**
 
-- 👨‍💻 All of my projects are available at [kiran-personnelportfolio.netlify.app](kiran-personnelportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at https://kiran-personnelportfolio.netlify.app/
 
 - 💬 Ask me about **Front-End Development,Python,Java Script,React JS,Django**
 
