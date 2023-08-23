@@ -7,7 +7,6 @@
 ![ezgif com-resize](https://github.com/KiranGangoor0301/KiranGangoor0301/assets/128992542/18c512e2-b290-4a86-9998-0db54450e3c2)
 <br>
 <br>
-
 - 🔭 I’m currently working on **Machine Learning Projects**
 
 - 🌱 I’m currently learning **Machine Learning**
