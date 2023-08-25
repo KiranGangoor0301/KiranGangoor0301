@@ -21,7 +21,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1HFG59oAefOwQF7Shf9qSYxSCb50itAYx/view?usp=drive_link](https://drive.google.com/file/d/1HFG59oAefOwQF7Shf9qSYxSCb50itAYx/view?usp=drive_link)
 
-
 <br>
 <br>
 <br>
