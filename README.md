@@ -125,9 +125,10 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kirangangoor0301&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kirangangoor0301&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kirangangoor0301&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kirangangoor0301&theme=radical" alt="GitHub Streak"/>
 </p>
+
 
 <br>
 
